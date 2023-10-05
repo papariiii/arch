@@ -130,6 +130,3 @@ sudo systemctl restart celestia-appd && journalctl -u celestia-appd -f -o cat
 -------------------------------------------------------------
 
 sudo systemctl stop celestia-appd
-
-
-cd $HOME
