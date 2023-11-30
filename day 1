@@ -120,5 +120,4 @@ tee $HOME/celestia-appd.service > /dev/null <<EOF
 sudo mv $HOME/celestia-appd.service /etc/systemd/system/
 
 sudo systemctl enable celestia-appd
-sudo systemctl daemon-reload
-sudo 
+sudo systemctl daemon-reload 
