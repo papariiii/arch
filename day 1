@@ -122,3 +122,4 @@ sudo mv $HOME/celestia-appd.service /etc/systemd/system/
 sudo systemctl enable celestia-appd
 sudo systemctl daemon-reload 
 11111111
+22222222
