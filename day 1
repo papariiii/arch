@@ -15,7 +15,7 @@ source $HOME/.bash_profile
 go version
 
 cd $HOME
-rm -rf celestia-app
+rm -rf celestia-appf
 git clone https://github.com/celestiaorg/celestia-app.git
 cd celestia-app
 git checkout v0.6.0
